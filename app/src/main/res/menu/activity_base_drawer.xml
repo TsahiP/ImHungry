@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home"
+            android:title="@string/home" />
+
+        <item
+            android:id="@+id/category"
+            android:icon="@drawable/ic_category"
+            android:title="Recipes Categories" />
+
+        <item
+            android:id="@+id/createRecipe"
+            android:icon="@drawable/ic_create_recipe"
+            android:title="@string/createRecipe" />
+
+        <item
+            android:id="@+id/WorkShop"
+            android:icon="@drawable/ic_workshop"
+            android:title="@string/workshop" />
+
+        <item
+            android:id="@+id/WorkShopCreate"
+            android:icon="@drawable/ic_create_workshop"
+            android:title="@string/createWorkshop" />
+
+        <item
+            android:id="@+id/Chat"
+            android:icon="@drawable/ic_chat"
+            android:title="@string/inbox" />
+
+        <item
+            android:id="@+id/Search_menu"
+            android:icon="@drawable/search"
+            android:title="@string/search" />
+
+
+
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <!--            <item-->
+            <!--                android:id="@+id/nav_share"-->
+            <!--                android:icon="@drawable/ic_menu_share"-->
+            <!--                android:title="@string/menu_share" />-->
+            <item
+                android:id="@+id/setting_btn"
+                android:icon="@drawable/settings"
+                android:title="@string/setting" />
+            <item
+                android:id="@+id/LogOut_btn"
+                android:icon="@drawable/ic_logout"
+                android:title="@string/logout" />
+            <!--                android:icon="@drawable/ic_menu_send"-->
+
+        </menu>
+    </item>
+
+</menu>

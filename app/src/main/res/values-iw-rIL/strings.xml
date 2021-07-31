@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">imHungry</string>
+    <string name="login_text">כניסה</string>
+    <string name="nextStep" translatable="false">לשלב הבא</string>
+    <string name="delete_acc">אתה בטוח שאתה רוצה למחוק את המשתמש?
+אם כן יש צורך לאמת את החיבור</string>
+    <string name="forget_pw">הכנס את כתובת האימייל שאיתה נרשמת בכדי לקבל אלייה את סיסמתך </string>
+
+    <!--    amount ingredients-->
+    <string name="kilo">קילו</string>
+    <string name="gram">גרם</string>
+    <string name="liter">ליטר</string>
+    <string name="mililiter">מילי ליטר</string>
+    <string name="teaspoon">כפית</string>
+    <string name="tablespoon">כף</string>
+    <string name="cup">כוס</string>
+    <string name="chose_error" >אתה חייב לבחור קנה מידה </string>
+
+
+    <!--    amount ingredients-->
+
+
+    <string name="register_text">הרשמה</string>
+    <string name="email">אימייל</string>
+    <string name="password">סיסמא</string>
+    <string name="forgot_password">שכחתי סיסמא?</string>
+    <string name="new_user">אין לך חשבון? הרשם כאן</string>
+    <string name="first_name">שם פרטי</string>
+    <string name="last_name">שם משפחה</string>
+    <string name="city">עיר</string>
+    <string name="date_of_birth">תאריך לידה</string>
+    <string name="mr">זכר</string>
+    <string name="ms">נקבה</string>
+    <string name="delete_recipe">אתה בטוח שאתה רוצה למחוק את מתכון זה?</string>
+
+    <string name="phone" translatable="false">פלאפון</string>
+    <string name="top_rate" translatable="false">המדורגים</string>
+    <string name="top_watch" translatable="false">הנצפים</string>
+    <string name="new_recipes" translatable="false">החדשים</string>
+    <string name="logout" translatable="false">התנתק</string>
+    <string name="home" translatable="false">מסך הבית</string>
+    <string name="workshop" translatable="false">סדנאות</string>
+    <string name="createWorkshop" translatable="false">יצירת סדנא</string>
+    <string name="inbox" translatable="false">צאט</string>
+    <string name="createRecipe" translatable="false">יצירת מתכון</string>
+    <string name="classLocation" translatable="false">מיקום הסדנא</string>
+
+    <!--    navigation-->
+    <string name="navigation_drawer_open">פתח את התפריט</string>
+    <string name="navigation_drawer_close">סגור את התפריט</string>
+    <string name="action_settings">הגדרות</string>
+    <string name="title_activity_maps" translatable="false">מפה</string>
+    <string name="make_in_workshop" translatable="false">מה נכין בסדנה</string>
+    <string name="join_to_workshop" translatable="false">הצטרפות לסדנה</string>
+    <string name="steps" translatable="false">שלב</string>
+<!--setting Activity-->
+    <string name="setting">הגדרות</string>
+    <string name="setting_dialog">בכדי להכנס לדף זה יש לבצע אימות שנית</string>
+    <string name="change_pss_btn">שינוי סיסמה</string>
+
+    <string name="text" translatable="false">
+        הפוך ליצרן שוקולד בלגי אמיתי תוך כשעתיים וחצי!
+  אנו מספקים לכם את כל הדרוש לכם: כלי בישול, מתכוני מרכיבים. בסיוע מההתחלה ועד הסוף אינך זקוק לחוויית בישול קודמת בכדי להשתתף בסדנת השוקולד. ילדים (לפחות 12 שנים) בליווי לפחות מבוגר אחד המשתתף מוזמנים.
+        לאחר היכרות קצרה נעבור את כל התהליך, נתפצל לקבוצות ונתחיל למתן את השוקולד!
+    </string>
+    <string name="name_workshop" translatable="false">שם הסדנא</string>
+    <string name="description_workshop" translatable="false">תיאור</string>
+    <string name="amount_of_people_workshop" translatable="false">כמות של אנשים</string>
+    <string name="date_workshop" translatable="false">תאריך</string>
+    <string name="time_workshop" translatable="false">זמן</string>
+    <string name="start_time_workshop" translatable="false">זמן התחלה</string>
+    <string name="end_time_workshop" translatable="false">זמן סיום</string>
+    <string name="location_workshop" translatable="false">מיקום</string>
+    <string name="price_workshop" translatable="false">מחיר</string>
+    <string name="upload_workshop" translatable="false">עלאה</string>
+    <string name="gender" translatable="false">מין</string>
+    <string name="by" translatable="false"> על ידי </string>
+    <string name="join" translatable="false">להצטרף</string>
+    <string name="workshop_full" translatable="false">הסדנא מלאה</string>
+    <string name="remove_join" translatable="false">ביטול הצטרפות</string>
+
+    <string name="name_recpie" translatable="false">שם המתכון</string>
+    <string name="created_by" translatable="false">נוצער ע"י</string>
+    <string name="time_to_make" translatable="false">זמן הכנה</string>
+    <string name="like" translatable="false">אהבו</string>
+    <string name="ingredients" translatable="false">מצרכים</string>
+    <string name="search_ingredients" translatable="false">חיפוש מצרכים</string>
+    <string name="description_step" translatable="false">תיאור השלב</string>
+    <string name="description_recipe" translatable="false">תיאור המתכון</string>
+    <string name="preparationTimePicker" translatable="false">זמן הכנה</string>
+    <string name="details" translatable="false">פרטי המתכון</string>
+
+    <string name="Beef" translatable="false">בקר</string>
+    <string name="Chicken" translatable="false">עופות</string>
+    <string name="Fish" translatable="false">דגים</string>
+    <string name="Pasta" translatable="false">פסטות</string>
+    <string name="Soups" translatable="false">מרקים</string>
+    <string name="Saleds" translatable="false">סלטים</string>
+    <string name="Cakes" translatable="false">עוגות</string>
+    <string name="Cookies" translatable="false">עוגיות</string>
+    <string name="pizza" translatable="false">פיצות</string>
+    <string name="Bread" translatable="false">לחמים</string>
+    <string name="vegetarian" translatable="false">צימחוני</string>
+    <string name="DipsSpread" translatable="false">ממרחים</string>
+
+    <string name="amount" translatable="false">כמות</string>
+    <string name="more" translatable="false">עוד מהקטגוריה</string>
+    <string name="recipeDay" translatable="false">המתכון של היום</string>
+    <string name="ingredientsContain" translatable="false">מתכונים המכילים רק את המצרכים</string>
+    <string name="ingredientsOnlyContain" translatable="false">מתכונים המכילים את המצרכים</string>
+    <string name="askDelete" translatable="false">אתה בטוח שאתה רוצה למחוק?</string>
+    <string name="onList" translatable="false">המוצר קיים ברשימה</string>
+    <string name="nameRecipe" translatable="false">שם המתכון</string>
+    <string name="category" translatable="false">קטגוריה</string>
+    <string name="searchRecipeName" translatable="false">תכניס את שם מתכון</string>
+    <string name="repassword" translatable="false">הקש סיסמא שנית</string>
+    <string name="search" translatable="false">חיפוש</string>
+
+    <string-array name="ingredients">
+        <item>ביצים</item>
+        <item>פילה בקר</item>
+        <item>אנטריקוט</item>
+        <item>בשר טחון</item>
+        <item>אסאדו</item>
+        <item>כנפיים</item>
+        <item>חזה עוף</item>
+        <item>לבבות עוף</item>
+        <item>קורקבנים</item>
+        <item>נקנקיות</item>
+        <item>פרגיות</item>
+        <item>עוף שלם</item>
+        <item>צלעות כבש</item>
+        <item>צלעות טלה</item>
+        <item>מושט ענק</item>
+        <item>דניס</item>
+        <item>בורי ענק</item>
+        <item>סלמון פרוסות  עם העצם</item>
+        <item>פילה סלמון</item>
+        <item>סי בס</item>
+        <item>מוסר ים</item>
+        <item>לברק</item>
+        <item>פורל</item>
+        <item>בר ים</item>
+        <item>מעורבי ים</item>
+        <item>ברבוניה</item>
+        <item>פילה טונה אדומה</item>
+        <item>לוקוס לבן</item>
+        <item>אנטיאס</item>
+        <item>קרפייון</item>
+        <item>סרדין</item>
+        <item>מליטה</item>
+        <item>פלמידה לבנה</item>
+        <item>ילו טייל האמצ\'י</item>
+        <item>אגוז מוסקט</item>
+        <item>אורגנו</item>
+        <item>אזובית</item>
+        <item>ארוגול הרוקט</item>
+        <item>בזיליקום</item>
+        <item>בצל</item>
+        <item>בצלצל</item>
+        <item>הל</item>
+        <item>זנגוויל–ג׳ינג׳ר</item>
+        <item>זעפרן</item>
+        <item>חילבה</item>
+        <item>חרדל</item>
+        <item>טרגון–לענהדרקונית</item>
+        <item>טימין–קורנית</item>
+        <item>כוסברה–גד</item>
+        <item>כורכום</item>
+        <item>כמון</item>
+        <item>כרפס–סלרי</item>
+        <item>כרוויה</item>
+        <item>מייס</item>
+        <item>מלח</item>
+        <item>מלח לימון</item>
+        <item>נענע</item>
+        <item>עלידפנה</item>
+        <item>פטרוזיליה</item>
+        <item>פלפל שחור</item>
+        <item>פלפל לבן</item>
+        <item>פלפל אדום</item>
+        <item>פלפל אנגלי</item>
+        <item>פפריקה</item>
+        <item>פרג</item>
+        <item>ציפורן</item>
+        <item>צלפים</item>
+        <item>צ’ילי</item>
+        <item>קארי</item>
+        <item>קינמון</item>
+        <item>קימל</item>
+        <item>קמומיל</item>
+        <item>רוזמרין</item>
+        <item>שום</item>
+        <item>שומשום</item>
+        <item>שומר</item>
+        <item>שמיר</item>
+        <item>מרווה</item>
+        <item>וניל</item>
+        <item>אבוקדו</item>
+        <item>אורגנו</item>
+        <item>אורוגולה</item>
+        <item>​אמרנט(</item>
+        <item>​אספרגוס</item>
+        <item>​ארטישוק</item>
+        <item>​ארטישוק ירושלמי</item>
+        <item>​בוקצ\'וי</item>
+        <item>​בזיליקום</item>
+        <item>​בטטה</item>
+        <item>​במיה</item>
+        <item>​בצל ירוק</item>
+        <item>​ברוקולי</item>
+        <item>​גזר</item>
+        <item>​גזר לבן</item>
+        <item>​ג\'ינג\'ר</item>
+        <item>​גמבה</item>
+        <item>​דלורית</item>
+        <item>​דלעת</item>
+        <item>​חסה</item>
+        <item>​חציל</item>
+        <item>​טימין</item>
+        <item>​טרגון</item>
+        <item>​כוסברה</item>
+        <item>​כרוב</item>
+        <item>​כרוב ניצנים</item>
+        <item>​כרובית</item>
+        <item>​כרשה</item>
+        <item>​לבבותדקל</item>
+        <item>​לואיזה</item>
+        <item>​לפת</item>
+        <item>​מליסה</item>
+        <item>​מלפפון</item>
+        <item>​מנגולד</item>
+        <item>​מרווה</item>
+        <item>נבטי אלפלפא</item>
+        <item>נענע</item>
+        <item>סלק</item>
+        <item>סלרי</item>
+        <item>עגבנייה</item>
+        <item>עירית</item>
+        <item>עשבלימון</item>
+        <item>פטרוזיליה</item>
+        <item>פטרייתפורטבלו</item>
+        <item>צנון</item>
+        <item>צנוןדייקון</item>
+        <item>קולורבי</item>
+        <item>קייל</item>
+        <item>קישוא</item>
+        <item>רוזמרין</item>
+        <item>שום</item>
+        <item>שומר</item>
+        <item>שמיר</item>
+        <item>תירס</item>
+        <item>תפוח אדמה</item>
+        <item>תרד</item>
+        <item>דבש</item>
+        <item>צ\'ילי מתוק</item>
+        <item>רוטב סויה</item>
+        <item>צ\'ילי חריף</item>
+        <item>קורנפלור</item>
+        <item>קמח</item>
+        <item>טחינה</item>
+        <item>רסק עגבניות</item>
+        <item>סילאן</item>
+        <item>שמרים יבשים</item>
+        <item>מים</item>
+        <item>שמן קנולה</item>
+        <item>שמן זית</item>
+        <item>טריאקי</item>
+
+    </string-array>
+
+    <string-array name="uri">
+        <item>https://st1.foodsd.co.il/Images/Products/large/9A5hgjZYev.jpg</item>
+        <item>https://static.wixstatic.com/media/f57378_4dedfc3d0c494b87a10b097aa2c6bd77~mv2_d_3872_2592_s_4_2.jpg/v1/fill/w_919,h_615,al_c,q_85,usm_0.66_1.00_0.01/f57378_4dedfc3d0c494b87a10b097aa2c6bd77~mv2_d_3872_2592_s_4_2.webp</item>
+        <item>https://static.wixstatic.com/media/f57378_8b239bc218f34bb7acffb91d322dec30~mv2_d_1920_1280_s_2.jpg/v1/fill/w_923,h_615,al_c,q_85,usm_0.66_1.00_0.01/f57378_8b239bc218f34bb7acffb91d322dec30~mv2_d_1920_1280_s_2.webp</item>
+        <item>https://static.wixstatic.com/media/f57378_0ce8161c3cff42be8ec673c0931599de~mv2.jpg/v1/fill/w_200,h_191,al_c,lg_1,q_80/f57378_0ce8161c3cff42be8ec673c0931599de~mv2.webp</item>
+        <item>https://static.wixstatic.com/media/f57378_6763168883b94448bdd7ff4e788b97a0~mv2.jpg/v1/fill/w_768,h_511,al_c,lg_1,q_85/f57378_6763168883b94448bdd7ff4e788b97a0~mv2.webp</item>
+        <item>https://mania-m.co.il/wp-content/uploads/2016/06/knafaym-of-b1.jpg</item>
+        <item>https://mania-m.co.il/wp-content/uploads/2016/06/haze-of-b1.jpg</item>
+        <item>https://shaynoga.co.il/wp-content/uploads/2019/11/%D7%9C%D7%91%D7%91%D7%95%D7%AA-%D7%A2%D7%95%D7%A3.jpg</item>
+        <item>https://kazaviabashuk.com/wp-content/uploads/2015/08/226878026-Lior_Meat_Cut-B56-500x500-e1576415862614.jpg</item>
+        <item>https://lh3.googleusercontent.com/proxy/pyvEbadGkPDNodz9M-ugP2nh5bwoQmDLRYqdluatEo4OPWRvd5Spmw8xxH6M5Q0Sm8Lm79ERzSURAP936Mvbul6vtV89mM_nL8swMR41JSO3hGKJ5Vxcd2BMaQ</item>
+        <item>https://uploads.mixtrade.co.il/640/5f2c334c5281b.jpeg</item>
+        <item>https://konimboimages.s3.amazonaws.com/system/photos/4897878/original/6ee97a5377979194bb1801987d42c0c9.jpg</item>
+        <item>https://static.wixstatic.com/media/58a5f8_2bfd5c0745284322a98aa546c75463b5~mv2.jpg/v1/fill/w_450,h_271,al_c,q_85/58a5f8_2bfd5c0745284322a98aa546c75463b5~mv2.jpg</item>
+        <item>https://aharonbros.co.il/wp-content/uploads/2019/12/lamb-crown.jpg</item>
+        <item>https://www.udifish.co.il/images/itempics/100003_27032019145653_small.jpg?24082020093410</item>
+        <item>https://www.udifish.co.il/images/itempics/100007_28042019141948_small.jpg?10082020122443</item>
+        <item>https://www.udifish.co.il/images/itempics/100009_27032019150003_small.jpg?10082020123006</item>
+        <item>https://www.udifish.co.il/images/itempics/100011_14102020081244_small.jpg?24012021111659</item>
+        <item>https://www.udifish.co.il/images/itempics/100013_27032019150417_small.jpg?10082020122112</item>
+        <item>https://www.udifish.co.il/images/itempics/100014_28042019142040_small.jpg?01112020132514</item>
+        <item>https://www.udifish.co.il/images/itempics/100016_27032019150531_small.jpg?10082020121838</item>
+        <item>https://www.udifish.co.il/images/itempics/100017_27032019150555_small.jpg?09082020183326</item>
+        <item>https://www.udifish.co.il/images/itempics/100018_27032019150633_small.jpg?10082020122229</item>
+        <item>https://www.udifish.co.il/images/itempics/100019_28042019141503_small.jpg?24012021112746</item>
+        <item>https://www.udifish.co.il/images/itempics/100026_27032019150844_small.jpg?29012020121014</item>
+        <item>https://www.udifish.co.il/images/itempics/100029_27032019150926_small.jpg?12012021091831</item>
+        <item>https://www.udifish.co.il/images/itempics/100037_27032019151430_small.jpg?24012021114302</item>
+        <item>https://www.udifish.co.il/images/itempics/109_18062019130906_small.jpg?24012021111902</item>
+        <item>https://www.udifish.co.il/images/itempics/100086_31032020104551_small.jpg?24012021112621</item>
+        <item>https://www.udifish.co.il/images/itempics/100088_31032020104523_small.jpg?12052020120146</item>
+        <item>https://www.udifish.co.il/images/itempics/145_210520202143011_small.jpg?21052020214345</item>
+        <item>https://www.udifish.co.il/images/itempics/101021_240520200952511_small.jpg?07092020120411</item>
+        <item>https://www.udifish.co.il/images/itempics/156_011120201317311_small.jpg?11112020070332</item>
+        <item>https://www.udifish.co.il/images/itempics/119_31032020104732_small.jpg?24012021111757</item>
+        <item>https://alhamishkal.co.il/wp-content/uploads/2020/03/%D7%90%D7%92%D7%95%D7%96-%D7%9E%D7%95%D7%A1%D7%A7%D7%98-%D7%A9%D7%9C%D7%9D.jpg</item>
+        <item>https://cashcow-cdn.azureedge.net/images/1c831a90-ce54-4e82-89b0-38f9b12131a4.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Marjoram-spice.jpg/250px-Marjoram-spice.jpg</item>
+        <item>https://www.shefab.co.il/files/products/product141_image1_2020-09-03_15-09-28.jpg</item>
+        <item>https://batevasheli.co.il/wp-content/uploads/2018/06/%D7%91%D7%96%D7%99%D7%9C%D7%99%D7%A7%D7%95%D7%9D.jpg</item>
+        <item>https://www.shefab.co.il/files/products/product74_image1_2020-08-30_17-42-18.jpg</item>
+        <item>http://sc04.alicdn.com/kf/HTB1Uy4sHGSWBuNjSsrbq6y0mVXa9.jpg</item>
+        <item>https://hakole-market.co.il/wp-content/uploads/size_600_700-2_0001_Background_0033_%D7%94%D7%9C-%D7%A9%D7%9C%D7%9D.jpg</item>
+        <item>https://www.camoni.co.il/webfiles/images/cache/782X426/zcX1/webfiles/camoni/cms_files/headers/header_3451.jpg</item>
+        <item>https://derech-hatavlinim.co.il/wp-content/uploads/2018/06/zafran.jpg</item>
+        <item>https://cdn.shortpixel.ai/client/q_lossy,ret_img,w_411,h_274/https://derech-hatavlinim.co.il/wp-content/uploads/2018/06/IMG_1995.jpg</item>
+        <item>https://cdn.istores.co.il/image/upload/if_ar_gt_2:1/c_fill,h_662,w_555/c_fill,h_662,w_555/if_else/c_fill,q_100,w_555/if_end/dpr_2/v1585695372/clients/102732/6c27b7808c6814c9e42517ba88f1b7838eb66e45.jpg</item>
+        <item>https://cashcow-cdn.azureedge.net/images/32520fbb-c4a9-483a-b3df-3f1e89cf4ee3.png</item>
+        <item>https://www.teva-shuk.co.il/wp-content/uploads/2020/05/thyme.jpg</item>
+        <item>https://st1.foodsd.co.il/Images/Products/large/eigiMxCua3.jpg</item>
+        <item>https://www.vitaplus.co.il/wp-content/uploads/2020/02/%D7%9B%D7%95%D7%A8%D7%9B%D7%95%D7%9D.jpg</item>
+        <item>https://www.maharaja.co.il/wp-content/uploads/2020/04/cumin-powder-organic-small.jpg</item>
+        <item>https://st1.foodsd.co.il/Images/Products/large/IW9mZWdRqI.jpg</item>
+        <item>https://derech-hatavlinim.co.il/wp-content/uploads/2018/06/IMG_2044.jpg</item>
+        <item>https://cdn.shortpixel.ai/client/q_lossy,ret_img/https://derech-hatavlinim.co.il/wp-content/uploads/2018/07/IMG_2833.jpg</item>
+        <item>https://w2.chabad.org/media/images/745/WiIZ7453042.jpg</item>
+        <item>https://w2.chabad.org/media/images/745/WiIZ7453042.jpg</item>
+        <item>https://fruitguys.co.il/wp-content/uploads/2017/03/mint.jpg</item>
+        <item>https://st1.foodsd.co.il/Images/Products/large/qg3DrlefSd.jpg</item>
+        <item>https://cashcow-cdn.azureedge.net/images/510f5448-13f7-4161-8d97-933cd8d8c4be.jpg</item>
+        <item>https://derech-hatavlinim.co.il/wp-content/uploads/2019/12/black-paper-768x766.jpg</item>
+        <item>https://derech-hatavlinim.co.il/wp-content/uploads/2018/06/IMG_2041.jpg</item>
+        <item>https://lh3.googleusercontent.com/proxy/MkV-eMtzvtD4616_wAigl5y32TiGaxDNGshWqpYZ9GG8oSUdH8yGuxbUvGVFgEWYSX6k49ENmAnH_Ogf11XO0NTBkHOzgW7rCZJ3HWhLOxblroaQRfr5Vsp7C-MtJtGCV-WW4rEpBpmmSISgi6f5L2HSHPckDhGl6xqHRJrkx4yE5PhOLsi5xKE</item>
+        <item>https://derech-hatavlinim.co.il/wp-content/uploads/2018/06/IMG_2038.jpg</item>
+        <item>https://derech-hatavlinim.co.il/wp-content/uploads/2018/07/IMG_2593.jpg</item>
+        <item>https://derech-hatavlinim.co.il/wp-content/uploads/2018/06/IMG_2029.jpg</item>
+        <item>https://cdn.shortpixel.ai/client/q_lossy,ret_img,w_411,h_274/https://derech-hatavlinim.co.il/wp-content/uploads/2018/06/IMG_2053.jpg</item>
+        <item>https://static.hashulchan.co.il/www/uploads/terms-images/ingredient/%D7%A6%D7%9C%D7%A4%D7%99%D7%9D-medium.jpg</item>
+        <item>https://sc04.alicdn.com/kf/HTB1Q4yaNVXXXXanXXXX760XFXXXo.png</item>
+        <item>https://yoviral.net/wp-content/uploads/thumbs/-36g57cl6yxw1t4wihxp2ww.jpg</item>
+        <item>https://www.fruit.co.il/wp-content/uploads/%D7%95%D7%A0%D7%99%D7%9C-5.jpg</item>
+        <item>https://cdn.shortpixel.ai/client/q_lossy,ret_img,w_411,h_274/https://derech-hatavlinim.co.il/wp-content/uploads/2018/06/IMG_1995.jpg</item>
+        <item>https://derech-hatavlinim.co.il/wp-content/uploads/2018/06/IMG_3069.jpg</item>
+        <item>https://cdn.shopify.com/s/files/1/0060/1466/4807/products/0000703_2000x.jpg?v=1588514702</item>
+        <item>https://www.teva-shuk.co.il/wp-content/uploads/2020/05/garlic.jpg</item>
+        <item>https://d3m9l0v76dty0.cloudfront.net/system/photos/3092062/large/faa7c995539b00930cd641f508d7c62d.jpg</item>
+        <item>https://zanzuri.co.il/images/thumbs/0000237_510.jpeg</item>
+        <item>https://d3m9l0v76dty0.cloudfront.net/system/photos/3814556/large/31e1a9ae40fff0860836bd369a971e8a.jpg</item>
+        <item>https://shifke.com/wp-content/uploads/2020/10/%D7%9E%D7%A8%D7%95%D7%95%D7%94.jpg</item>
+        <item>https://www.fruit.co.il/wp-content/uploads/%D7%95%D7%A0%D7%99%D7%9C-5.jpg</item>
+        <item>https://www.naturopedia.com/uploads/img034136112014.png</item>
+        <item>https://www.naturopedia.com/uploads/img034356112014.png</item>
+        <item>https://www.naturopedia.com/uploads/img035216112014.png</item>
+        <item>https://www.naturopedia.com/uploads/img11254913112014.png</item>
+        <item>https://www.naturopedia.com/uploads/img11264713112014.png</item>
+        <item>https://www.naturopedia.com/uploads/img1458291582014.png</item>
+        <item>https://www.naturopedia.com/uploads/img11275513112014.png</item>
+        <item>https://www.naturopedia.com/uploads/img11293113112014.png</item>
+        <item>https://www.naturopedia.com/uploads/img11302613112014.png</item>
+        <item>https://www.naturopedia.com/uploads/img11304913112014.png</item>
+        <item>https://www.naturopedia.com/uploads/img11312013112014.png</item>
+        <item>https://www.naturopedia.com/uploads/img11331013112014.png</item>
+        <item>https://www.naturopedia.com/uploads/img11335013112014.png</item>
+        <item>https://www.naturopedia.com/uploads/img11434113112014.png</item>
+        <item>https://www.naturopedia.com/uploads/img11441313112014.png</item>
+        <item>https://www.naturopedia.com/uploads/img11444713112014.png</item>
+        <item>https://www.naturopedia.com/uploads/img11492013112014.png</item>
+        <item>https://www.naturopedia.com/uploads/img11455613112014.png</item>
+        <item>https://www.naturopedia.com/uploads/img11464613112014.png</item>
+        <item>https://www.naturopedia.com/uploads/img11504913112014.png</item>
+        <item>https://www.naturopedia.com/uploads/img11511313112014.png</item>
+        <item>https://www.naturopedia.com/uploads/img11513413112014.png</item>
+        <item>https://www.naturopedia.com/uploads/img11515813112014.png</item>
+        <item>https://www.naturopedia.com/uploads/img11523013112014.png</item>
+        <item>https://www.naturopedia.com/uploads/img11525913112014.png</item>
+        <item>https://www.naturopedia.com/uploads/img11532413112014.png</item>
+        <item>https://www.naturopedia.com/uploads/img11534713112014.png</item>
+        <item>https://www.naturopedia.com/uploads/img11542213112014.png</item>
+        <item>https://www.naturopedia.com/uploads/img11555513112014.png</item>
+        <item>https://www.naturopedia.com/uploads/img11563613112014.png</item>
+        <item>https://www.naturopedia.com/uploads/img1157713112014.png</item>
+        <item>https://www.naturopedia.com/uploads/img11572913112014.png</item>
+        <item>https://www.naturopedia.com/uploads/img11575313112014.png</item>
+        <item>https://www.naturopedia.com/uploads/img11582213112014.png</item>
+        <item>https://www.naturopedia.com/uploads/img11585013112014.png</item>
+        <item>https://www.naturopedia.com/uploads/img11591513112014.png</item>
+        <item>https://www.naturopedia.com/uploads/img11595813112014.png</item>
+        <item>https://www.naturopedia.com/uploads/img1202513112014.png</item>
+        <item>https://www.naturopedia.com/uploads/img1456102162014.png</item>
+        <item>https://www.naturopedia.com/uploads/img1212713112014.png</item>
+        <item>https://www.naturopedia.com/uploads/img1245013112014.png</item>
+        <item>https://www.naturopedia.com/uploads/img1262013112014.png</item>
+        <item>https://www.naturopedia.com/uploads/img1275313112014.png</item>
+        <item>https://www.naturopedia.com/uploads/img1282313112014.png</item>
+        <item>https://www.naturopedia.com/uploads/img1285113112014.png</item>
+        <item>https://www.naturopedia.com/uploads/img1291713112014.png</item>
+        <item>https://www.naturopedia.com/uploads/img12103413112014.png</item>
+        <item>https://www.naturopedia.com/uploads/img12113313112014.png</item>
+        <item>https://www.naturopedia.com/uploads/img1212413112014.png</item>
+        <item>https://www.naturopedia.com/uploads/img12124913112014.png</item>
+        <item>https://www.naturopedia.com/uploads/img1332311362014.png</item>
+        <item>https://www.naturopedia.com/uploads/img12145713112014.png</item>
+        <item>https://www.naturopedia.com/uploads/img12152313112014.png</item>
+        <item>https://www.naturopedia.com/uploads/img12154913112014.png</item>
+        <item>https://www.naturopedia.com/uploads/img12162013112014.png</item>
+        <item>https://www.naturopedia.com/uploads/img12165913112014.png</item>
+        <item>https://sfilev2.f-static.com/image/users/408301/ftp/my_files/sop-resize-400-%D7%93%D7%91%D7%A9.png?sopC=1455436961078</item>
+        <item>https://d3m9l0v76dty0.cloudfront.net/system/photos/5020619/large/f0e3c60da2c19c7c12d12e0a189e2850.jpg</item>
+        <item>https://m.pricez.co.il/ProductPictures/7290011996086.jpg</item>
+        <item>https://m.pricez.co.il/ProductPictures/7290011996086.jpg</item>
+        <item>https://d3m9l0v76dty0.cloudfront.net/system/photos/4402528/large/5e520b182f7ac175dba8b02d99e5cc52.jpg</item>
+        <item>https://poliva.co.il/pub/media/catalog/product/cache/b3b166914d87ce343d4dc5ec5117b502/f/i/file_22.jpg</item>
+        <item>https://d3m9l0v76dty0.cloudfront.net/system/photos/2897229/large/926b38528e43fbd9db3613f680b8285e.jpg</item>
+        <item>https://accvaloreti.azureedge.net/images/f555237c-6d17-46fa-8789-166da0914b19_500.jpg</item>
+        <item>https://kib.co.il/wp-content/uploads/2018/10/silan-2-683x1024.jpg</item>
+        <item>https://foryesha.com/wp-content/uploads/2019/10/%D7%A9%D7%9E%D7%A8%D7%99%D7%9D-%D7%99%D7%91%D7%A9%D7%99%D7%9D-125-%D7%92%D7%A8%D7%9D-%D7%9E%D7%99%D7%94.jpg</item>
+        <item>https://103fm.maariv.co.il/download/highlight/SegmentImgNew_463360_41_55_.jpg</item>
+        <item>https://super-ol.co.il/Cat_489407_428.jpg</item>
+        <item>https://zetaoliveoil.co.il/wp-content/uploads/bfi_thumb/Zeta_meudan_500ml_201911-onarriwd96k1p3bk44skoqvta1gtf5t77don324r28.jpg</item>
+        <item>https://osemcat.signature-it.com/images/Fittings/osem-hq/Upload_Pictures/Prod_Pic/6926389/Catalog/6926389_7290000061108_L_1_Enlarge.jpg</item>
+
+    </string-array>
+
+
+</resources>
