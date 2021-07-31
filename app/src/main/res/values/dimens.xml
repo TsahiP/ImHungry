@@ -1,0 +1,63 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="appbar_padding">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="appbar_padding_top">8dp</dimen>
+
+    <!--navigation-->
+
+    <dimen name="nav_header_vertical_spacing">8dp</dimen>
+    <dimen name="nav_header_height">130dp</dimen>
+    <dimen name="txt_size_16">16sp</dimen>
+    <dimen name="txt_size_18">18sp</dimen>
+    <dimen name="txt_size_20">20sp</dimen>
+    <dimen name="txt_size_26">26sp</dimen>
+    <dimen name="card_corner">20dp</dimen>
+    <dimen name="card_corner_15">15dp</dimen>
+    <dimen name="card_corner_10">10dp</dimen>
+    <dimen name="padding_10">10dp</dimen>
+    <dimen name="padding_5dp">5dp</dimen>
+    <dimen name="padding_20">20dp</dimen>
+    <dimen name="padding_15">15dp</dimen>
+    <dimen name="padding_30">30dp</dimen>
+    <dimen name="padding_40">40dp</dimen>
+    <dimen name="padding_50">50dp</dimen>
+    <dimen name="txt_size_14">14dp</dimen>
+    <dimen name="txt_size_12">12sp</dimen>
+    <dimen name="btn_size">20dp</dimen>
+    <dimen name="text_margin">16dp</dimen>
+
+    <dimen name="spaceLR">40dp</dimen>
+    <dimen name="space5">5dp</dimen>
+    <dimen name="space10">10dp</dimen>
+    <dimen name="space15">15dp</dimen>
+    <dimen name="space20">20dp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="h1">18sp</dimen>
+    <dimen name="h2">16sp</dimen>
+    <dimen name="h3">14sp</dimen>
+    <dimen name="h4">12sp</dimen>
+    <dimen name="h5">10sp</dimen>
+    <dimen name="maxwidth">170dp</dimen>
+
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="item_offset">10dp</dimen>
+    <dimen name="detail_backdrop_height">250dp</dimen>
+    <dimen name="backdrop_title">30dp</dimen>
+    <dimen name="backdrop_subtitle">18dp</dimen>
+    <dimen name="card_margin">5dp</dimen>
+    <dimen name="card_pic_radius">0dp</dimen>
+    <dimen name="pic_cover_height">160dp</dimen>
+    <dimen name="pic_title_padding">10dp</dimen>
+    <dimen name="pic_title">15dp</dimen>
+    <dimen name="like_count_padding_bottom">5dp</dimen>
+    <dimen name="like_count">12dp</dimen>
+    <dimen name="ic_pic_overflow_width">20dp</dimen>
+    <dimen name="ic_pic_overflow_height">30dp</dimen>
+    <dimen name="ic_pic_overflow_margin_top">10dp</dimen>
+
+
+</resources>

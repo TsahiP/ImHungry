@@ -1,0 +1,76 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#FF8F00</item>
+        <item name="colorPrimaryDark">#FAF36D1F</item>
+        <item name="colorAccent">#FFA726</item>
+        <item name="android:windowActionBarOverlay">true</item>
+
+    </style>
+
+    <style name="TimePickerTheme" parent="Theme.AppCompat.Light.Dialog">
+        <item name="colorPrimary">@color/orange</item>
+        <item name="colorPrimaryDark">@color/orange</item>
+        <item name="colorAccent">@color/orange</item>
+    </style>
+    <style name="RadioButtonStyle" parent="Theme.AppCompat.Light">
+        <!-- color of radio button -->
+        <item name="colorAccent">#FF8F00</item>
+        <!-- default color of radio button -->
+        <item name="android:textColorPrimary">@android:color/darker_gray</item>
+
+    </style>
+
+
+
+    <style name="TabsStyle">
+        <!-- color of radio button -->
+        <item name="colorAccent">#FFFF17</item>
+        <!-- default color of radio button -->
+        <item name="android:textColorPrimary">#FFFF17</item>
+    </style>
+
+    <style name="bigTitle">
+        <item name="android:textColor">#ff2a2a2a</item>
+        <item name="android:textSize">13sp</item>
+    </style>
+
+    <style name="smallTitle">
+        <item name="android:textColor">#ff757575</item>
+        <item name="android:textSize">8sp</item>
+    </style>
+
+    <style name="RatingBar" parent="Theme.AppCompat">
+        <item name="colorControlNormal">#dbdbdb</item>
+        <item name="colorControlActivated">#FFB74D</item>
+    </style>
+<!--    navigtion-->
+    <style name="navigationsize"  parent="ThemeOverlay.AppCompat.Light">
+        <item name="android:textSize">16sp</item>
+    </style>
+    <style name="FullscreenTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+
+    <style name="FullscreenTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="FullscreenTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="FullscreenTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+    <style name="MyAlertDialogStyle" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <item name="colorAccent">@color/orange</item>
+    </style>
+
+    <style name="TextInputLayoutStyle" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <item name="boxStrokeColor">@color/black</item>
+        <item name="android:textColor">@color/colorAccent</item>
+        <item name="android:textColorHint">@color/black</item>
+    </style>
+
+
+</resources>
